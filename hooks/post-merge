@@ -19,4 +19,4 @@ check_run testfile3 "touch newfile3"
 check_run testfile4 "touch newfile4"
 
 check_run symlinktest1 "touch symlinknew1"
-
+check_run symlinktest2 "touch symlinknew2"
